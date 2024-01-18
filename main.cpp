@@ -14,7 +14,7 @@ int main()
 	{
 		BeginDrawing();
 		ClearBackground(backDrop);
-
+		grid.Draw();
 
 		EndDrawing();
 
